@@ -1,0 +1,30 @@
+.button_galery {
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+}
+.button_galery button {
+	margin: 30px 15px 30px 30px;
+	padding: 0px;
+	background-color: #04c6c6;
+	border-color: #04c6c6;
+	filter: drop-shadow(0 0 5px #5fe7e7);
+	border-style: 1px;
+	border-radius: 10%;
+	height: 250px;
+	width: 250px;
+}
+.button_galery button:hover {
+	opacity: 0.8;
+}
+.button_galery p {
+	margin: 0px;
+	padding: 0px;
+	padding-top: 5px;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+}

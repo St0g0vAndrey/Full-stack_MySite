@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.header {
+  margin: 0px;
+	padding: 0px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+}
+.header {
+	margin: 20px 20px 20px 20px;
+	padding: 20px;
+	border-radius: 20px;
+	background-color: #bbf5f5;
+}
+hr {
+	margin: 0px;
+	margin-top: 10px;
+	padding: 0px;
+	size: 1px;
+  width: auto;
+	color: #03b2b2;
+}
